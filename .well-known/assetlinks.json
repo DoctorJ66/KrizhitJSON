@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.krizhit",
+    "sha256_cert_fingerprints":
+    ["20:0A:CF:FF:DE:53:EE:3D:35:6B:0D:88:F7:86:39:56:6C:2F:74:10:8A:40:F8:48:66:E4:0A:AC:E8:85:1E:63"]
+  }
+}]
